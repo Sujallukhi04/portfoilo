@@ -89,26 +89,5 @@ Update the following in `src/app/page.tsx`:
 2. Connect your repository to Vercel
 3. Deploy with one click
 
-### Other Platforms
-
-- **Netlify**: Connect your GitHub repository
-- **GitHub Pages**: Use GitHub Actions for deployment
-- **Railway**: Deploy directly from GitHub
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sujallukhi04/portfolio/issues).
-
-## 📞 Contact
-
-- **GitHub**: [@Sujallukhi04](https://github.com/Sujallukhi04)
-- **LinkedIn**: [Sujal Lukhi](https://linkedin.com/in/sujal-lukhi)
-- **Email**: sujal.lukhi@example.com
-
----
 
 Built with ❤️ by Sujal Lukhi
